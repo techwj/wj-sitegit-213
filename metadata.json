@@ -1,0 +1,71 @@
+{
+  "siteId": "coworking-space-noise-reduction",
+  "generatedAt": "2026-06-12T16:23:55.311156",
+  "categories": [
+    "beginner-coworking-space-noise-reduction",
+    "advanced-coworking-space-noise-reduction",
+    "tips-coworking-space-noise-reduction",
+    "history-coworking-space-noise-reduction",
+    "trending-coworking-space-noise-reduction",
+    "tutorials-coworking-space-noise-reduction"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-coworking-space-noise-reduction",
+      "category_name": "Beginner Coworking Space Noise Reduction"
+    },
+    {
+      "category_slug": "advanced-coworking-space-noise-reduction",
+      "category_name": "Advanced Coworking Space Noise Reduction"
+    },
+    {
+      "category_slug": "tips-coworking-space-noise-reduction",
+      "category_name": "Coworking Space Noise Reduction Tips"
+    },
+    {
+      "category_slug": "history-coworking-space-noise-reduction",
+      "category_name": "Coworking Space Noise Reduction History"
+    },
+    {
+      "category_slug": "trending-coworking-space-noise-reduction",
+      "category_name": "Trending Coworking Space Noise Reduction"
+    },
+    {
+      "category_slug": "tutorials-coworking-space-noise-reduction",
+      "category_name": "Coworking Space Noise Reduction Tutorials"
+    }
+  ],
+  "articleCount": 108,
+  "design": {
+    "site_id": "coworking-space-noise-reduction",
+    "color_scheme": {
+      "name": "Sunset Rose",
+      "primary": "#be123c",
+      "secondary": "#fb7185",
+      "accent": "#fda4af",
+      "background": "#fff1f2",
+      "text": "#881337",
+      "light": "#ffe4e6"
+    },
+    "font": {
+      "name": "Inter",
+      "family": "'Inter', system-ui, sans-serif",
+      "import": "@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');"
+    },
+    "layout": "sidebar-right",
+    "border_radius": "0px",
+    "box_shadow": "0 10px 15px -3px rgba(0,0,0,0.1), 0 4px 6px -2px rgba(0,0,0,0.05)",
+    "article_card_style": "grid",
+    "header_style": "sticky",
+    "footer_style": "standard",
+    "modules": [
+      "stats-widget",
+      "category-highlights",
+      "recent-comments",
+      "popular-tags",
+      "social-links"
+    ],
+    "site_title": "Coworking Space Noise Reduction Central",
+    "articles_per_row": 2
+  }
+}
